@@ -1,5 +1,5 @@
 {
-  "name": "senior-enrichment",
+  "name": "jpfp",
   "version": "0.0.1",
   "description": "A review time project",
   "main": "main.js",
@@ -14,7 +14,7 @@
     "react",
     "redux",
     "skeleton"
-  ],
+  ], 
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.2",
